@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carlpajanel
+- 👀 I’m interested in Python's & Nodejs
+- 🌱 I’m currently learning C#
